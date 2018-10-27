@@ -1,0 +1,30 @@
+/*
+body{
+    background-image: url(../images/bg.jpg)
+
+}
+*/
+
+body{
+    background: url(../images/bgcat.jpg)
+    no-repeat center center fixed;
+    background-size : cover
+    
+    
+}
+div{
+    background-color: floralwhite;
+    
+}
+
+h1{
+    color: #B53100;
+    text-align: center;
+    
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 3em;
+    width:500px;
+    padding:20px;
+    margin: 200px auto;
+    
+}

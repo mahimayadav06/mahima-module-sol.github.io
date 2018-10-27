@@ -1,0 +1,35 @@
+a{
+    font-size: 30px;
+}
+
+
+/*order: link, visited, hover, active;*/
+
+/*
+a:link{
+    color: blueviolet;
+}
+a:visited{
+    color: brown;
+}
+a:hover{
+    color: red;
+}
+a:active{
+    color: aqua;
+}*/
+
+a:link, a:visited {
+    background-color: coral;
+    opacity: 0.8;
+    padding: 10px 12px;
+    color: white;
+    border-radius: 10px;
+}
+a:hover{
+    background-color: lightgray;
+    color: black;
+}
+a:active{
+    color: blueviolet;
+}
